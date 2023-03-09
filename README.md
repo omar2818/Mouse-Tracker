@@ -10,9 +10,9 @@ you can host this web page on local server by doing the following:
 
 2 - Download this repository.
 
-3 - Run this command ### `npm install` .
+3 - Run this command `npm install` .
 
-4 - Run this command ### `npm start` .
+4 - Run this command `npm start` .
 
 5 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
